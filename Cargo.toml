@@ -1,0 +1,13 @@
+[package]
+name = "bititer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "bititer"
+path = "bititer.rs"
+
+[features]
+
+[dependencies]
+num = "0.4.0"
